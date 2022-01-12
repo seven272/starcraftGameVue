@@ -52,6 +52,10 @@ i.fa {
  color:#ffffff;
 }
 
+.app__header-inner {
+ text-align: center;
+}
+
 .app__logo {
  padding: 20px 0;
  display: block;
